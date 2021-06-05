@@ -1,2 +1,5 @@
 # webcoin
 Asinerum Webcoin Project
+
+PRESENTING ANOTHER STANDARD
+MAKING CRYPTO SIMPLE
