@@ -1,0 +1,2 @@
+# webcoin
+Asinerum Webcoin Project
